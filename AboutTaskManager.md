@@ -10,4 +10,4 @@ For access other clients,use their client,pass,if you have also admin pass(this 
 You are accessing computers with these accounts.
 If you don't login website with admin pass,you can't use remote control. 
 After this you can login website and watch your program and services cpu,ram,Onn or Off,start and end time. You can start or stop these.Also you can access CMD! 
-This is still beta. If you want to ask something or about language translate, you can write me.
+This is still beta. If you want to ask something or about language translate, you can write me..
